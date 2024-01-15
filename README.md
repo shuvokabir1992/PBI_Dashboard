@@ -4,7 +4,7 @@
 
 Welcome to the Power BI project repository! This dashboard serves a multifaceted purpose, addressing key aspects of sales performance and data analysis. The project aims to empower stakeholders with valuable insights, facilitating informed decision-making and fostering a data-driven culture within the organization.
 
-## Main Dashboard
+## Project Image
 
 ![Screenshot 2024-01-03 044024](https://github.com/shuvokabir1992/PowerBI_Dashboard/assets/108602274/9467a13c-7035-4cda-b637-89fac563b64b)
 
@@ -42,7 +42,7 @@ To explore the Power BI dashboard and leverage its analytical capabilities, foll
 1. Clone the repository to your local machine.
 2. Open the Power BI project file using Microsoft Power BI Desktop.
 3. Explore the various tabs and visualizations to gain valuable insights into sales performance.
-4. Share the dashboard with relevant stakeholders for collaborative decision-making.
+
 
 ## Contributions
 
