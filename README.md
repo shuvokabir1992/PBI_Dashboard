@@ -4,7 +4,7 @@
 
 Welcome to the Power BI project repository! This dashboard serves a multifaceted purpose, addressing key aspects of sales performance and data analysis. The project aims to empower stakeholders with valuable insights, facilitating informed decision-making and fostering a data-driven culture within the organization.
 
-## Project Image
+## Main Dashboard
 
 ![Screenshot 2024-01-03 044024](https://github.com/shuvokabir1992/PowerBI_Dashboard/assets/108602274/9467a13c-7035-4cda-b637-89fac563b64b)
 
